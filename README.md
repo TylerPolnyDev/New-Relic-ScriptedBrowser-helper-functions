@@ -3,7 +3,7 @@ used to quickly build up scripted browser test in New Relic.
 
 # Description
 The following functions each represent 1 step in a scripted browser test case.
-if steps should be executed in order be sure to make use of "await"
+If steps should be executed in order be sure to make use of "await"
 
 # Step Functions
 
