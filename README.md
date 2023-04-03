@@ -9,7 +9,7 @@ url - string - url you would like to navigate to.
 use: navigates to URL and logs event on console with time stamp
 
 stepClickElement
-param: 
+param:\n
 locator - string - locator used to find element you would like to click
 use: click an element and log event on console with time stamp
 
